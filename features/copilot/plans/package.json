@@ -1,0 +1,1 @@
+{"name": "project-name","version": "1.0.0","dependencies": {"docx": "^7.0.0","pdf-lib": "^1.17.1","xlsx": "^0.18.5","nodemailer": "^6.9.1"}}
